@@ -9,12 +9,12 @@
 
 ![Member](https://github.com/Bangkit-Product-Based-Capstone-Project/.github/assets/99418260/5e198d2d-9907-4f82-a3c9-ddcf3a67790f)
 
-* [active] (ML) M229DSY0309 Felisitas Artemisia Rerung - Universitas Lambung Mangkurat[https://www.linkedin.com/in/felisitasartemisiarerung-392107236/]
-* [active] (ML) M166DSY0116 Fadhila Fairuz Zulfa Kenedi - Universitas Diponegoro[https://www.linkedin.com/in/fadhilakenedi/]
-* [active] (MD) A131DKY3851 Ramadhani Ari Putra - Universitas Ahmad Dahlan[https://www.linkedin.com/in/ramadhani-ari-putra-84376825b/]
-* [active] (MD) A131DSX1234 Azizah Fathimatuzzahro - Universitas Ahmad Dahlan[https://www.linkedin.com/in/azizah-fathimatuzzahro/]
-* [active] (CC) C131DSY0931 Rinday Zildjiani Salji - Universitas Ahmad Dahlan[https://www.linkedin.com/in/rinday/]
-* [active] (CC) C309DSY0790 Zirlyfera Zakiya Maulidia - Universitas Pendidikan Indonesia[https://www.linkedin.com/in/zirlyferazm/]
+* [active] (ML) M229DSY0309 Felisitas Artemisia Rerung - Universitas Lambung Mangkurat
+* [active] (ML) M166DSY0116 Fadhila Fairuz Zulfa Kenedi - Universitas Diponegoro
+* [active] (MD) A131DKY3851 Ramadhani Ari Putra - Universitas Ahmad Dahlan
+* [active] (MD) A131DSX1234 Azizah Fathimatuzzahro - Universitas Ahmad Dahlan
+* [active] (CC) C131DSY0931 Rinday Zildjiani Salji - Universitas Ahmad Dahlan
+* [active] (CC) C309DSY0790 Zirlyfera Zakiya Maulidia - Universitas Pendidikan Indonesia
 
 ---
 
