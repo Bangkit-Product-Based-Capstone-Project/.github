@@ -1,13 +1,13 @@
 # FoodHunt
 
-![image](https://github.com/Bangkit-Product-Based-Capstone-Project/.github/assets/87255617/c0820497-aef5-402a-adbd-6e51f60a5311)
+![cover foodhunt](https://github.com/Bangkit-Product-Based-Capstone-Project/.github/assets/99418260/9b1c9c03-e52a-401c-b77f-3c9b96895b33)
 
 
 
 ## C23-PS234
 ### Team Members
 
-![C23-PS234 Team Members]<img width="623" alt="image" src="https://github.com/Bangkit-Product-Based-Capstone-Project/.github/assets/87255617/e60ac509-5c6f-4ffb-a57e-5e30105acee6">
+![Member](https://github.com/Bangkit-Product-Based-Capstone-Project/.github/assets/99418260/0ab791c5-a6b8-4ff2-b4cb-b198c276748a)
 
 * [active] (ML) M229DSY0309 Felisitas Artemisia Rerung - Universitas Lambung Mangkurat
 * [active] (ML) M166DSY0116 Fadhila Fairuz Zulfa Kenedi - Universitas Diponegoro
@@ -43,3 +43,5 @@ We created FoodHunt, where tourist and younger generation can scan local food th
 - [@azizahfzahr](https://github.com/azizahfzahr)
 - [@Rinday12](https://github.com/Rinday12)
 - [@zirlyzkiyaa](https://github.com/zirlyzkiyaa)
+
+![closing](https://github.com/Bangkit-Product-Based-Capstone-Project/.github/assets/99418260/c4b46bdc-d7cf-4b62-a176-8d13a12808d0)
